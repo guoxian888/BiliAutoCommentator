@@ -1,0 +1,2 @@
+# curl 'https://passport.bilibili.com/x/passport-login/web/qrcode/generate'
+GET https://passport.bilibili.com/x/passport-login/web/qrcode/generate
